@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula_mobile</string>
+    <string name="alturazero">Informe uma altura maior que Zero</string>
+    <string name="resultado"> O valor em pés é: </string>
+</resources>
